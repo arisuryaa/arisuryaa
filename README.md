@@ -10,10 +10,6 @@
 
 ---
 
-### 🤩 About me
-
-dekom
-
 ### 🔗 Social Media
 
 [Instagram](https://www.instagram.com/arsdewaa)
