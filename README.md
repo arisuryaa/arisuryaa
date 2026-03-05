@@ -17,8 +17,8 @@
 
 ## 🚀 About Me
 
-I'm a **Fullstack JavaScript Developer** with a strong background in **web development, system design, and UI/UX**.  
-Currently studying **Next.js & PostgreSQL** and continuously building real-world projects.
+I'm a **Fullstack Developer** with a strong background in **web development, system design, and UI/UX**.  
+Currently studying **Laravel & AI ** and continuously building real-world projects.
 
 - 🎓 **Technology Information Student – Universitas Udayana**
 - 🏫 **RPL Graduate – SMK Negeri 1 Denpasar**
