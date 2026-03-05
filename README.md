@@ -22,6 +22,7 @@ Currently studying **Next.js & PostgreSQL** and continuously building real-world
 
 - 🎓 **Technology Information Student – Universitas Udayana**
 - 🏫 **RPL Graduate – SMK Negeri 1 Denpasar**
+- 🥈 **2nd Place Hackathon – Arkavidia ITB 2026**
 - 🏆 **1st Place Web Design – PARAC ICT X 2025**
 - 🥉 **3rd Place Web Design – SITEFEST 2025**
 - 🥉 **3rd Place Web Design – ITCC 2025**
