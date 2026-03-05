@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ngakan Nyoman Ari Surya Khrisna 👋</h1>
-<h3 align="center">Fullstack JavaScript Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ngakan-nyoman-ari-surya-khrisna-72844036a/" target="_blank">
