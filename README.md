@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 I'm a **Fullstack Developer** with a strong background in **web development, system design, and UI/UX**.  
-Currently studying **Laravel & AI ** and continuously building real-world projects.
+Currently studying ** AI ** and continuously building real-world projects.
 
 - 🎓 **Technology Information Student – Universitas Udayana**
 - 🏫 **RPL Graduate – SMK Negeri 1 Denpasar**
@@ -63,9 +63,15 @@ I focus on building **scalable, clean, and maintainable applications** with mode
 
 ## 📌 Featured Projects
 
+###🤖 Clara AI
+
+Hackathon Project, AI For MSME Legal Protection.
+
+> Tech: React JS, TailwindCSS, Express, NEO4J, Gemini
+
 ### 🧩 Vandal Project
 
-A project focused on system design and application structure.
+Crypto Portfolio Management System
 
 > Tech: JavaScript, Node.js, Express
 
@@ -88,8 +94,7 @@ Student management system for data handling, administration, and reporting.
 
 ## 🎯 Current Focus
 
-- Deepening **Next.js** for production-ready apps
-- Learning **PostgreSQL** for scalable backend systems
+- Learning ** AI ** for Solving Real World Problem
 - Building **real-world projects** with clean architecture
 
 ---
