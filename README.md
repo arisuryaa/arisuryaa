@@ -63,7 +63,7 @@ I focus on building **scalable, clean, and maintainable applications** with mode
 
 ## 📌 Featured Projects
 
-###🤖 Clara AI
+### 🤖 Clara AI
 
 Hackathon Project, AI For MSME Legal Protection.
 
