@@ -44,6 +44,7 @@ I focus on building **scalable, clean, and maintainable applications** with mode
 ![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
 ![Laravel](https://img.shields.io/badge/Laravel-000?style=flat&logo=laravel)
 
 ### Databases
