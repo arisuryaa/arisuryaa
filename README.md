@@ -84,15 +84,6 @@ Student management system for data handling, administration, and reporting.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arisuryaa&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arisuryaa&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Learning ** AI ** for Solving Real World Problem
