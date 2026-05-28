@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ngakan Nyoman Ari Surya Khrisna 👋</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ngakan-nyoman-ari-surya-khrisna-72844036a/" target="_blank">
@@ -17,13 +17,14 @@
 
 ## 🚀 About Me
 
-I'm a **Fullstack Developer** with a strong background in **web development, system design, and UI/UX**.  
+I'm a **Software Engineer** with a strong background in **web development, system design, and UI/UX**.  
 Currently studying ** AI ** and continuously building real-world projects.
 
 - 🎓 **Technology Information Student – Universitas Udayana**
 - 🏫 **RPL Graduate – SMK Negeri 1 Denpasar**
-- 🥈 **2nd Place Hackathon – Arkavidia ITB 2026**
-- 🏆 **1st Place Web Design – PARAC ICT X 2025**
+- 🥇 **1st Place Hackathon – IYREF 2026**
+- 🥈 **2nd Place Hackathon – Arkavidia 2026**
+- 🥇 **1st Place Web Design – PARAC ICT X 2025**
 - 🥉 **3rd Place Web Design – SITEFEST 2025**
 - 🥉 **3rd Place Web Design – ITCC 2025**
 
@@ -63,6 +64,12 @@ I focus on building **scalable, clean, and maintainable applications** with mode
 ---
 
 ## 📌 Featured Projects
+
+### 🍀 KomposVision
+
+Hackathon Project, AI For trash detection.
+
+> Tech: React Native, React JS, Tailwind, YOLO, FastAPI
 
 ### 🤖 Clara AI
 
