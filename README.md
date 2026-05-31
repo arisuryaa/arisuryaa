@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 I'm a **Software Engineer** with a strong background in **web development, system design, and UI/UX**.  
-Currently studying ** AI ** and continuously building real-world projects.
+Currently learning **AI** and continuously building real-world projects.
 
 - 🎓 **Technology Information Student – Universitas Udayana**
 - 🏫 **RPL Graduate – SMK Negeri 1 Denpasar**
@@ -28,7 +28,7 @@ Currently studying ** AI ** and continuously building real-world projects.
 - 🥉 **3rd Place Web Design – SITEFEST 2025**
 - 🥉 **3rd Place Web Design – ITCC 2025**
 
-I focus on building **scalable, clean, and maintainable applications** with modern tech stacks.
+I focus on building **scalable, clean, and maintainable applications**.
 
 ---
 
@@ -93,8 +93,8 @@ Student management system for data handling, administration, and reporting.
 
 ## 🎯 Current Focus
 
-- Learning ** AI ** for Solving Real World Problem
-- Building **real-world projects** with clean architecture
+- Learning **AI** for Solving Real World Problem.
+- Building **real-world projects** with clean architecture.
 
 ---
 
