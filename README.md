@@ -28,8 +28,6 @@ Currently learning **AI** and continuously building real-world projects.
 - 🥉 **3rd Place Web Design – SITEFEST 2025**
 - 🥉 **3rd Place Web Design – ITCC 2025**
 
-I focus on building **scalable, clean, and maintainable applications**.
-
 ---
 
 ## 🛠 Tech Stack
@@ -102,8 +100,8 @@ Student management system for data handling, administration, and reporting.
 
 - LinkedIn: [Ngakan Nyoman Ari Surya Khrisna](https://www.linkedin.com/in/ngakan-nyoman-ari-surya-khrisna-72844036a/)
 - Instagram: [@arsdewaa](https://instagram.com/arsdewaa)
-- Email: **arisurya228@gmail.com**
+- Email: **arisuryakhrisna@gmail.com**
 
 ---
 
-> _“Code is not just about syntax. It’s about building something that matters.”_
+> _“For me code is not just about syntax. It’s about building something that really matters.”_
