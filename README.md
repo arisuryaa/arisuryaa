@@ -81,11 +81,6 @@ Crypto Portfolio Management System
 
 > Tech: JavaScript, Node.js, Express
 
-### 🎓 Sistem Manajemen Siswa
-
-Student management system for data handling, administration, and reporting.
-
-> Tech: PHP, MySQL, UI/UX Design
 
 ---
 
