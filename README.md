@@ -75,11 +75,7 @@ Hackathon Project, AI For MSME Legal Protection.
 
 > Tech: React JS, TailwindCSS, Express, NEO4J, Gemini
 
-### 🧩 Vandal Project
-
-Crypto Portfolio Management System
-
-> Tech: JavaScript, Node.js, Express
+### 🫂 Kawanku Slack Bot 
 
 
 ---
