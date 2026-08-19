@@ -77,6 +77,7 @@ Hackathon Project, AI For MSME Legal Protection.
 
 ### 🫂 Kawanku Slack Bot 
 
+Hackathon Project, AI Slack BOT for detect employees loneliness
 
 ---
 
