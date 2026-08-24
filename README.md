@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ngakan Nyoman Ari Surya Khrisna 👋</h1>
+<h1 align="center">Hi, I'm Dewa 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
