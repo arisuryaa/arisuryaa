@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dewa 👋</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hello, I'm Dewa 👋</h1>
+<h3 align="center">Im a Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ngakan-nyoman-ari-surya-khrisna-72844036a/" target="_blank">
@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 I'm a **Software Engineer** with a strong background in **web development, system design, and UI/UX**.  
-Currently learning **AI** and continuously building real-world projects.
+Currently exploring **AI** and actively building real-world projects.
 
 - 🎓 **Technology Information Student – Universitas Udayana**
 - 🏫 **RPL Graduate – SMK Negeri 1 Denpasar**
