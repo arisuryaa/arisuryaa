@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dewa 👋</h1>
-<h3 align="center">Im a Software Engineer</h3>
+<h3 align="center">Hoping to become Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ngakan-nyoman-ari-surya-khrisna-72844036a/" target="_blank">
@@ -20,8 +20,8 @@
 I'm a **Software Engineer** with a strong background in **web development, system design, and UI/UX**.  
 Currently exploring **AI** and actively building real-world projects.
 
-- 🎓 **Technology Information Student – Universitas Udayana**
-- 🏫 **RPL Graduate – SMK Negeri 1 Denpasar**
+- 🎓 **Technology Information Student – Udayana University**
+- 🥈 **2nd Place PILMAPRES Udayana – Udayana University**
 - 🥇 **1st Place Hackathon – IYREF 2026**
 - 🥈 **2nd Place Hackathon – Arkavidia 2026**
 - 🥇 **1st Place Web Design – PARAC ICT X 2025**
