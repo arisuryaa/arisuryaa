@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Software Engineer** with a strong background in **web development, system design, and UI/UX**.  
 Currently exploring **AI** and actively building real-world projects.
@@ -30,7 +30,7 @@ Currently exploring **AI** and actively building real-world projects.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack 
 
 ### Languages
 
@@ -61,7 +61,7 @@ Currently exploring **AI** and actively building real-world projects.
 
 ---
 
-## 📌 Featured Projects
+## My Last Projects
 
 ### 🍀 KomposVision
 
@@ -81,12 +81,6 @@ Hackathon Project, AI Slack BOT for detect employees loneliness
 
 ---
 
-## 🎯 Current Focus
-
-- Learning **AI** for Solving Real World Problem.
-- Building **real-world projects** with clean architecture.
-
----
 
 ## 📫 Contact
 
