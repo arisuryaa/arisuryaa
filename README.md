@@ -30,6 +30,14 @@ Currently exploring **AI** and actively building real-world projects.
 
 ---
 
+## Experience
+
+- Software Engineer Intern at Squareble ( Jun 2023 - Dec 2023 )
+- Software Engineer Intern at Xendit ( May 2026 - Nov 2026 )
+- Staff Software Engineer at Technology Artisan study group ( 2026 - now )
+
+---
+
 ## Tech Stack 
 
 ### Languages
